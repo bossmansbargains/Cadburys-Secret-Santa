@@ -1,6 +1,6 @@
 # Cadbury's Secret Santa | [Powered by Bossman's Bargains](https://bossmans.bargains)
 
-A chrome extension to bypass the 5 per household limit on the amount of chocolates you can order from the Secret Santa promotion
+A chrome extension to bypass the 3 per household limit on the amount of chocolates you can order from the Secret Santa promotion
 
 ## Getting Started
 
