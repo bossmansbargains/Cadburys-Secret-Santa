@@ -1,0 +1,16 @@
+{
+  "name": "Bossman's Bargains | Secret Santa Bypass",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Bypass the 3 per-household limit on Cadburys Secret Santa event",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "page": "main.html",
+    "persistent": true
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "150": "images/icon150.png"
+  }
+}
