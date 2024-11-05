@@ -1,0 +1,44 @@
+# Cadbury's Secret Santa | [Powered by Bossman's Bargains](https://bossmans.bargains)
+
+A chrome extension to bypass the 5 per household limit on the amount of chocolates you can order from the Secret Santa promotion
+
+## Getting Started
+
+Follow these steps to download the folder as a zip and load it as an unpacked extension into Chrome
+
+### Download as a Zip
+
+1. Click on the green "Code" button on the top-right of the repository.
+2. Select "Download ZIP" from the dropdown menu.
+3. Save the ZIP file to your desired location on your computer.
+
+### Load as Unpacked Extension in Chrome
+
+1. Extract the downloaded ZIP file to a location on your computer.
+2. Open Google Chrome and go to the extensions page. You can do this by entering `chrome://extensions/`in the address bar and hitting Enter.
+3. Enable "Developer mode" in the top-right corner of the extensions page.
+4. Click on the "Load unpacked" button that appears.
+5. Navigate to the location where you extracted the ZIP file and select the folder.
+6. Click the "Select Folder" button.
+
+Your extension should now be loaded and active in Chrome.
+
+### FAQ
+
+Q: I keep getting an error, what do I do?
+A: We would recommend you to refresh the extension, which can be done on the `chrome://extensions/` page, if the issue persists, please open an issue on the [Issues](../../issues) tab
+
+Q: I ordered 15 chocolates but only 5 came, why is this?
+A: Cadbury's will only send you 5 per order, but once that 5 you have ordered has arrived, use the tool to get another 5
+
+## Usage
+
+Enable the extension and enable permissions (if it asks for them). Then, once you click "Submit Order" at the end of the page, we will work our magic behind the scenes to be able to get around the 5 per household limit
+
+## Issues
+
+If you encounter any issues or have suggestions, please open an issue on the [Issues](../../issues) tab
+
+## Notice
+
+This project is for educational purposes. We do not encourage or endorse using this tool
