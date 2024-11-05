@@ -28,8 +28,8 @@ Your extension should now be loaded and active in Chrome.
 Q: I keep getting an error, what do I do?
 A: We would recommend you to refresh the extension, which can be done on the `chrome://extensions/` page, if the issue persists, please open an issue on the [Issues](../../issues) tab
 
-Q: I ordered 15 chocolates but only 5 came, why is this?
-A: Cadbury's will only send you 5 per order, but once that 5 you have ordered has arrived, use the tool to get another 5
+Q: I ordered 15 chocolates but only 3 came, why is this?
+A: Cadbury's will only send you 3 per order, but once that 3 you have ordered has arrived, use the tool to get another 3
 
 ## Usage
 
